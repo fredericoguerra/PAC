@@ -1,39 +1,39 @@
-tipo_empreendimento;subeixo;idn_digs
-Rodovias;Infraestrutura Logística;1000
-Ferrovia;Infraestrutura Logística;1001
-Porto;Infraestrutura Logística;1002
-Hidrovia;Infraestrutura Logística;1003
-Aeroporto;Infraestrutura Logística;1004
-Defesa;Infraestrutura Logística;1006
-Comunicações;Infraestrutura Logística;1007
-Ciência e Tecnologia;Infraestrutura Logística;1008
-Geração de Energia Elétrica;Infraestrutura Energética;2000
-Transmissão de Energia Elétrica;Infraestrutura Energética;2001
-Petróleo e Gás Natural;Infraestrutura Energética;2002
-Geologia e Mineração - Cprm;Infraestrutura Energética;2003
-Marinha Mercante;Infraestrutura Energética;2004
-Combustíveis Renováveis;Infraestrutura Energética;2005
-Saneamento;Infraestrutura Social e Urbana;3000
-Água em áreas urbanas;Infraestrutura Social e Urbana;3000
-Prevenção em áreas de risco;Infraestrutura Social e Urbana;3001
-Pavimentação;Infraestrutura Social e Urbana;3002
-Mobilidade Urbana;Infraestrutura Social e Urbana;3003
-Cidades Digitais;Infraestrutura Social e Urbana;3004
-Cidades Históricas;Infraestrutura Social e Urbana;3005
-Infraestrutura Turística;Infraestrutura Social e Urbana;3006
-Olimpíadas;Infraestrutura Social e Urbana;3007
-Educação;Infraestrutura Social e Urbana;3011
-Saúde;Infraestrutura Social e Urbana;3012
-SUFRAMA;Infraestrutura Social e Urbana;3013
-Casa da Mulher Brasileira;Infraestrutura Social e Urbana;3009
-UBS;Infraestrutura Social e Urbana;4000
-UPA;Infraestrutura Social e Urbana;4001
-Creches e Pré Escolas;Infraestrutura Social e Urbana;4002
-Quadras Esportivas nas Escolas;Infraestrutura Social e Urbana;4003
-Centro de Artes e Esportes Unificados;Infraestrutura Social e Urbana;4004
-Centro de Iniciação ao Esporte;Infraestrutura Social e Urbana;4005
-MCMV;Infraestrutura Social e Urbana;5000
-Urbanização de assentamentos precários;Infraestrutura Social e Urbana;5001
-Financiamento SBPE;Infraestrutura Social e Urbana;5002
-Luz para Todos;Infraestrutura Social e Urbana;6000
-Recursos Hídricos;Infraestrutura Social e Urbana;6002
+tipo_empreendimento,subeixo,id_digs
+Rodovias,Infraestrutura Logística,1000
+Ferrovia,Infraestrutura Logística,1001
+Porto,Infraestrutura Logística,1002
+Hidrovia,Infraestrutura Logística,1003
+Aeroporto,Infraestrutura Logística,1004
+Defesa,Infraestrutura Logística,1006
+Comunicações,Infraestrutura Logística,1007
+Ciência e Tecnologia,Infraestrutura Logística,1008
+Geração de Energia Elétrica,Infraestrutura Energética,2000
+Transmissão de Energia Elétrica,Infraestrutura Energética,2001
+Petróleo e Gás Natural,Infraestrutura Energética,2002
+Geologia e Mineração - Cprm,Infraestrutura Energética,2003
+Marinha Mercante,Infraestrutura Energética,2004
+Combustíveis Renováveis,Infraestrutura Energética,2005
+Saneamento,Infraestrutura Social e Urbana,3000
+Água em áreas urbanas,Infraestrutura Social e Urbana,3000
+Prevenção em áreas de risco,Infraestrutura Social e Urbana,3001
+Pavimentação,Infraestrutura Social e Urbana,3002
+Mobilidade Urbana,Infraestrutura Social e Urbana,3003
+Cidades Digitais,Infraestrutura Social e Urbana,3004
+Cidades Históricas,Infraestrutura Social e Urbana,3005
+Infraestrutura Turística,Infraestrutura Social e Urbana,3006
+Olimpíadas,Infraestrutura Social e Urbana,3007
+Educação,Infraestrutura Social e Urbana,3011
+Saúde,Infraestrutura Social e Urbana,3012
+SUFRAMA,Infraestrutura Social e Urbana,3013
+Casa da Mulher Brasileira,Infraestrutura Social e Urbana,3009
+UBS,Infraestrutura Social e Urbana,4000
+UPA,Infraestrutura Social e Urbana,4001
+Creches e Pré Escolas,Infraestrutura Social e Urbana,4002
+Quadras Esportivas nas Escolas,Infraestrutura Social e Urbana,4003
+Centro de Artes e Esportes Unificados,Infraestrutura Social e Urbana,4004
+Centro de Iniciação ao Esporte,Infraestrutura Social e Urbana,4005
+MCMV,Infraestrutura Social e Urbana,5000
+Urbanização de assentamentos precários,Infraestrutura Social e Urbana,5001
+Financiamento SBPE,Infraestrutura Social e Urbana,5002
+Luz para Todos,Infraestrutura Social e Urbana,6000
+Recursos Hídricos,Infraestrutura Social e Urbana,6002
